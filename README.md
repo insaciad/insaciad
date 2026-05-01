@@ -1,7 +1,10 @@
 <!-- BANNER -->
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <div align="center">
-  <img width="734" height="279" alt="image" src="https://github.com/user-attachments/assets/da3bdc1e-a9e4-4b27-b16a-f945f7883f21" />
+ <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/abd4ab98-f533-4356-889d-e7a65c701807" />
+
+
+
 
 </div>
 
@@ -49,7 +52,10 @@
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 ♱
+
+
 <!--
+
 **insaciad/insaciad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
